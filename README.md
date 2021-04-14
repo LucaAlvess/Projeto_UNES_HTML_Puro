@@ -7,7 +7,7 @@ Projeto criado em um curso da Udemy sobre desenvolvimento web com algumas modifi
 
 Observações:
 
-A estrutura do site foi criado utilizando-se tabelas, que, atualmente, não é mais o recomendado, poŕem o intuito é apenas de aprendizado da prática de criação de tabelas mais complexas.
+A estrutura do site foi criado utilizando-se tabelas, que, atualmente, não é mais o recomendado, porém o intuito é apenas de aprendizado da prática de criação de tabelas mais complexas.
 
 Os comentários continuam originais desde o ínicio do projeto.
 
